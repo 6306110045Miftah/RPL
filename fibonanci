@@ -29,6 +29,7 @@ public class Modul8 {
                     System.out.print(a+"");
                     a=a+b;
                     b=a-b;
+                    System.out.println();
                 }
                 System.out.println();
         
